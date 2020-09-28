@@ -3,7 +3,6 @@
 ## Todo App Image
 ![todoApp](https://user-images.githubusercontent.com/11798230/94413605-fb191280-0183-11eb-9bf3-d6e180467f10.PNG)
 
-
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
